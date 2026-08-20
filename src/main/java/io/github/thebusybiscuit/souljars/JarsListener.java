@@ -133,11 +133,7 @@ public class JarsListener implements Listener {
         }
     }
 
-    /**
-     * Sets the "Infused Souls" display line to the given count, replacing the existing one if present
-     * (identified by the "Infused Souls" marker JarsListener itself writes) or appending it otherwise.
-     * The authoritative count lives in persistent data; this line is purely cosmetic.
-     */
+    // Purely cosmetic; the authoritative count lives in persistent data.
     private void updateSoulsLore(ItemMeta im, int souls) {
         List<String> lore = im.getLore() != null ? im.getLore() : new ArrayList<>();
         String line = ChatColor.translateAlternateColorCodes('&', plugin.getSoulsLineTemplate().replace("%souls%", String.valueOf(souls)));
