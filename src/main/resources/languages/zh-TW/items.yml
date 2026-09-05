@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&o損壞的生怪磚'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&o靈魂罐'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&o靈魂罐'
+SOUL_JAR:
+  type:
+  - '&7&o靈魂罐'

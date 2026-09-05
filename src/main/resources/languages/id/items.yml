@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oSpawner Rusak'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oGuci Jiwa'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oGuci Jiwa'
+SOUL_JAR:
+  type:
+  - '&7&oGuci Jiwa'

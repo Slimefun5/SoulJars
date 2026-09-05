@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oPenjana Mob Rosak'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oBalang Jiwa'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oBalang Jiwa'
+SOUL_JAR:
+  type:
+  - '&7&oBalang Jiwa'

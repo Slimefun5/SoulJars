@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oTrasig Spawner'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oSjälsburk'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oSjälsburk'
+SOUL_JAR:
+  type:
+  - '&7&oSjälsburk'

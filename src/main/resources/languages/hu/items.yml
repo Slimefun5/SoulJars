@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oTörött szörnyszülő'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oLélekedény'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oLélekedény'
+SOUL_JAR:
+  type:
+  - '&7&oLélekedény'

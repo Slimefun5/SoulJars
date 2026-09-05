@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oLồng Sinh Vật Bị Vỡ'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oBình Linh Hồn'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oBình Linh Hồn'
+SOUL_JAR:
+  type:
+  - '&7&oBình Linh Hồn'

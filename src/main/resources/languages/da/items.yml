@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oØdelagt Spawner'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oSjæleglas'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oSjæleglas'
+SOUL_JAR:
+  type:
+  - '&7&oSjæleglas'

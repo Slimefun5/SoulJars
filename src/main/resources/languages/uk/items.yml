@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oПошкоджений спавнер'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oПосудина душ'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oПосудина душ'
+SOUL_JAR:
+  type:
+  - '&7&oПосудина душ'

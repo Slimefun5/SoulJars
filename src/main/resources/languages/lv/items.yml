@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oBojāts radītājs'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oDvēseļu trauks'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oDvēseļu trauks'
+SOUL_JAR:
+  type:
+  - '&7&oDvēseļu trauks'

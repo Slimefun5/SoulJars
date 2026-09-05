@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oСчупен спаунер'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oСъд за души'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oСъд за души'
+SOUL_JAR:
+  type:
+  - '&7&oСъд за души'

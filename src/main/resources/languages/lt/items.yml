@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oSulūžusi gimdyklė'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oSielų indas'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oSielų indas'
+SOUL_JAR:
+  type:
+  - '&7&oSielų indas'

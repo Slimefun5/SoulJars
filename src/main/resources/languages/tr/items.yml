@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oKırık Çağırıcı'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oRuh Kavanozu'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oRuh Kavanozu'
+SOUL_JAR:
+  type:
+  - '&7&oRuh Kavanozu'

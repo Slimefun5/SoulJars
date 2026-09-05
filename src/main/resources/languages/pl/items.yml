@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oZepsuty Spawner'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oSłój dusz'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oSłój dusz'
+SOUL_JAR:
+  type:
+  - '&7&oSłój dusz'

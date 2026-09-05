@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&o파손된 스포너'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&o영혼 항아리'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&o영혼 항아리'
+SOUL_JAR:
+  type:
+  - '&7&o영혼 항아리'

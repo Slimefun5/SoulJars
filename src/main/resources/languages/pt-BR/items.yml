@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oGerador de Monstros Quebrado'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oPote de almas'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oPote de almas'
+SOUL_JAR:
+  type:
+  - '&7&oPote de almas'

@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oمولد وحوش مكسور'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oجرة أرواح'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oجرة أرواح'
+SOUL_JAR:
+  type:
+  - '&7&oجرة أرواح'

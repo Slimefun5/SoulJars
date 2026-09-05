@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oRozbitý spawner'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oNádoba duší'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oNádoba duší'
+SOUL_JAR:
+  type:
+  - '&7&oNádoba duší'

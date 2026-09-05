@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oGerador de Monstros Partido'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oFrasco de almas'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oFrasco de almas'
+SOUL_JAR:
+  type:
+  - '&7&oFrasco de almas'

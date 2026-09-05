@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oRikkinäinen Synnyttäjä'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oSielupurkki'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oSielupurkki'
+SOUL_JAR:
+  type:
+  - '&7&oSielupurkki'

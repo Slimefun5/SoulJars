@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oGebreekte Voortbringer'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oSielkruik'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oSielkruik'
+SOUL_JAR:
+  type:
+  - '&7&oSielkruik'

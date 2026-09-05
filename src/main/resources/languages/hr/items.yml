@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oSlomljeno mrijestilište'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oPosuda duša'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oPosuda duša'
+SOUL_JAR:
+  type:
+  - '&7&oPosuda duša'

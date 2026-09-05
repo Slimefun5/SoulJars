@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oΣπασμένη Γεννήτρια Τεράτων'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oΔοχείο ψυχών'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oΔοχείο ψυχών'
+SOUL_JAR:
+  type:
+  - '&7&oΔοχείο ψυχών'

@@ -1,0 +1,12 @@
+'%MOB%_BROKEN_SPAWNER':
+  type:
+  - '&7&oSirang Spawner'
+'%MOB%_SOUL_JAR':
+  type:
+  - '&7&oGarapon ng Kaluluwa'
+FILLED_%MOB%_SOUL_JAR:
+  type:
+  - '&7&oGarapon ng Kaluluwa'
+SOUL_JAR:
+  type:
+  - '&7&oGarapon ng Kaluluwa'
