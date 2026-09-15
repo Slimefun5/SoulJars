@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Rozbitý spawner naladěný na %mob%.'
+  name: '&cRozbitý spawner &7(%mob%)'
   type:
   - '&7&oRozbitý spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Připoutána k %mob%. Zabíjej je dál,'
+  - '&7abys nádobu naplnil jejich dušemi.'
+  name: '&cNádoba na duše &7(%mob%)'
   type:
   - '&7&oNádoba duší'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Nádoba přetékající dušemi %mob%.'
+  name: '&cPlná nádoba na duše &7(%mob%)'
   type:
   - '&7&oNádoba duší'
 SOUL_JAR:
+  description:
+  - '&7Nádoba poutající duše. Zabij moba, když'
+  - '&7ji neseš, a jeho duše se k ní připoutá.'
+  name: '&bNádoba na duše &7(Prázdná)'
   type:
   - '&7&oNádoba duší'
