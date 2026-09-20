@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Pokvareni spawner ugođen na %mob%.'
+  name: '&cPokvareni spawner &7(%mob%)'
   type:
   - '&7&oSlomljeno mrijestilište'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Vezana uz %mob%. Nastavi ih ubijati'
+  - '&7da napuniš ovu staklenku njihovim dušama.'
+  name: '&cStaklenka duša &7(%mob%)'
   type:
   - '&7&oPosuda duša'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Staklenka prepuna duša %mob%.'
+  name: '&cPuna staklenka duša &7(%mob%)'
   type:
   - '&7&oPosuda duša'
 SOUL_JAR:
+  description:
+  - '&7Posuda koja veže duše. Ubij moba dok je'
+  - '&7nosiš da njegovu dušu vežeš uz ovu staklenku.'
+  name: '&bStaklenka duša &7(Prazna)'
   type:
   - '&7&oPosuda duša'
