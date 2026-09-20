@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Sugedęs kūriklis, suderintas su %mob%.'
+  name: '&cSugedęs kūriklis &7(%mob%)'
   type:
   - '&7&oSulūžusi gimdyklė'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Pririštas prie %mob%. Toliau juos žudykite,'
+  - '&7kad pripildytumėte indą jų sielomis.'
+  name: '&cSielų indas &7(%mob%)'
   type:
   - '&7&oSielų indas'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Indas, sklidinas %mob% sielų.'
+  name: '&cPripildytas sielų indas &7(%mob%)'
   type:
   - '&7&oSielų indas'
 SOUL_JAR:
+  description:
+  - '&7Sielas rišantis indas. Nužudykite mobą'
+  - '&7nešdamiesi jį, kad pririštumėte jo sielą prie indo.'
+  name: '&bSielų indas &7(tuščias)'
   type:
   - '&7&oSielų indas'
