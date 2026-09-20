@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Salauzts radītājs, noskaņots uz %mob%.'
+  name: '&cSalauzts radītājs &7(%mob%)'
   type:
   - '&7&oBojāts radītājs'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Piesaistīta: %mob%. Turpini tos kaut,'
+  - '&7lai piepildītu šo burku ar to dvēselēm.'
+  name: '&cDvēseļu burka &7(%mob%)'
   type:
   - '&7&oDvēseļu trauks'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Burka, pilna ar %mob% dvēselēm.'
+  name: '&cPiepildīta dvēseļu burka &7(%mob%)'
   type:
   - '&7&oDvēseļu trauks'
 SOUL_JAR:
+  description:
+  - '&7Dvēseli saistošs trauks. Nogalini mobu,'
+  - '&7nesot to līdzi, lai piesaistītu tā dvēseli šai burkai.'
+  name: '&bDvēseļu burka &7(Tukša)'
   type:
   - '&7&oDvēseļu trauks'
