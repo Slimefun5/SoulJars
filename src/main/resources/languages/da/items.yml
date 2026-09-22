@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7En ødelagt spawner indstillet til %mob%.'
+  name: '&cØdelagt spawner &7(%mob%)'
   type:
   - '&7&oØdelagt Spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Bundet til %mob%. Bliv ved med at dræbe dem'
+  - '&7for at fylde krukken med deres sjæle.'
+  name: '&cSjælekrukke &7(%mob%)'
   type:
   - '&7&oSjæleglas'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7En krukke fyldt til randen med sjæle fra %mob%.'
+  name: '&cFyldt sjælekrukke &7(%mob%)'
   type:
   - '&7&oSjæleglas'
 SOUL_JAR:
+  description:
+  - '&7En sjælebindende beholder. Dræb en mob, mens'
+  - '&7du bærer den, for at binde dens sjæl til krukken.'
+  name: '&bSjælekrukke &7(Tom)'
   type:
   - '&7&oSjæleglas'
