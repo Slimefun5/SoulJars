@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Pemijah rusak yang selaras dengan %mob%.'
+  name: '&cPemijah Rusak &7(%mob%)'
   type:
   - '&7&oSpawner Rusak'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Terikat pada %mob%. Terus bantai mereka'
+  - '&7untuk mengisi toples ini dengan jiwa mereka.'
+  name: '&cToples Jiwa &7(%mob%)'
   type:
   - '&7&oGuci Jiwa'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Toples yang penuh dengan jiwa %mob%.'
+  name: '&cToples Jiwa Terisi &7(%mob%)'
   type:
   - '&7&oGuci Jiwa'
 SOUL_JAR:
+  description:
+  - '&7Wadah pengikat jiwa. Bunuh mob sambil'
+  - '&7membawanya untuk mengikat jiwanya ke toples ini.'
+  name: '&bToples Jiwa &7(Kosong)'
   type:
   - '&7&oGuci Jiwa'
