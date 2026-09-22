@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Um gerador de monstros avariado sintonizado com %mob%.'
+  name: '&cGerador de Monstros Avariado &7(%mob%)'
   type:
   - '&7&oGerador de Monstros Partido'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Ligado a %mob%. Continua a matá-los'
+  - '&7para encher este frasco com as suas almas.'
+  name: '&cFrasco de Almas &7(%mob%)'
   type:
   - '&7&oFrasco de almas'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Um frasco a transbordar de almas de %mob%.'
+  name: '&cFrasco de Almas Cheio &7(%mob%)'
   type:
   - '&7&oFrasco de almas'
 SOUL_JAR:
+  description:
+  - '&7Um recipiente que prende almas. Mata um mob'
+  - '&7enquanto o levas para prender a alma a este frasco.'
+  name: '&bFrasco de Almas &7(Vazio)'
   type:
   - '&7&oFrasco de almas'
