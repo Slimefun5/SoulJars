@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7En trasig spawner inställd på %mob%.'
+  name: '&cTrasig spawner &7(%mob%)'
   type:
   - '&7&oTrasig Spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Bunden till %mob%. Fortsätt döda dem'
+  - '&7för att fylla burken med deras själar.'
+  name: '&cSjälsburk &7(%mob%)'
   type:
   - '&7&oSjälsburk'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7En burk full av själar från %mob%.'
+  name: '&cFylld själsburk &7(%mob%)'
   type:
   - '&7&oSjälsburk'
 SOUL_JAR:
+  description:
+  - '&7Ett själsbindande kärl. Döda en mob medan'
+  - '&7du bär det för att binda dess själ till burken.'
+  name: '&bSjälsburk &7(Tom)'
   type:
   - '&7&oSjälsburk'
