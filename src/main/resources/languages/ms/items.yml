@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Penjelma rosak yang ditala kepada %mob%.'
+  name: '&cPenjelma Rosak &7(%mob%)'
   type:
   - '&7&oPenjana Mob Rosak'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Terikat kepada %mob%. Terus bunuh mereka'
+  - '&7untuk memenuhkan balang ini dengan jiwa mereka.'
+  name: '&cBalang Jiwa &7(%mob%)'
   type:
   - '&7&oBalang Jiwa'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Balang yang sarat dengan jiwa %mob%.'
+  name: '&cBalang Jiwa Penuh &7(%mob%)'
   type:
   - '&7&oBalang Jiwa'
 SOUL_JAR:
+  description:
+  - '&7Bekas pengikat jiwa. Bunuh seekor mob sambil'
+  - '&7membawanya untuk mengikat jiwanya pada balang ini.'
+  name: '&bBalang Jiwa &7(Kosong)'
   type:
   - '&7&oBalang Jiwa'
