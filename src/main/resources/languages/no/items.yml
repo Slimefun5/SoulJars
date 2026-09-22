@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7En ødelagt gyter innstilt på %mob%.'
+  name: '&cØdelagt gyter &7(%mob%)'
   type:
   - '&7&oØdelagt spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Bundet til %mob%. Fortsett å drepe dem'
+  - '&7for å fylle dette glasset med sjelene deres.'
+  name: '&cSjeleglass &7(%mob%)'
   type:
   - '&7&oSjeleglass'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Et glass fylt til randen med sjelene til %mob%.'
+  name: '&cFylt sjeleglass &7(%mob%)'
   type:
   - '&7&oSjeleglass'
 SOUL_JAR:
+  description:
+  - '&7Et sjelebindende kar. Drep en mob mens'
+  - '&7du bærer det for å binde sjelen dens til dette glasset.'
+  name: '&bSjeleglass &7(Tomt)'
   type:
   - '&7&oSjeleglass'
