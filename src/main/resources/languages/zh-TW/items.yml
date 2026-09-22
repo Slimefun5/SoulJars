@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7一個對應 %mob% 的損壞生怪磚。'
+  name: '&c損壞的生怪磚 &7(%mob%)'
   type:
   - '&7&o損壞的生怪磚'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7已綁定 %mob%。持續擊殺牠們，'
+  - '&7以牠們的靈魂填滿這個罐子。'
+  name: '&c靈魂罐 &7(%mob%)'
   type:
   - '&7&o靈魂罐'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7一個滿溢著 %mob% 靈魂的罐子。'
+  name: '&c已裝滿的靈魂罐 &7(%mob%)'
   type:
   - '&7&o靈魂罐'
 SOUL_JAR:
+  description:
+  - '&7束縛靈魂的容器。攜帶它擊殺生物，'
+  - '&7即可把牠們的靈魂綁定到這個罐子裡。'
+  name: '&b靈魂罐 &7(空)'
   type:
   - '&7&o靈魂罐'
