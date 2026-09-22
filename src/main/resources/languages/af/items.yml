@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7''n Gebreekte voortbringer wat op %mob% ingestel is.'
+  name: '&cGebreekte Voortbringer &7(%mob%)'
   type:
   - '&7&oGebreekte Voortbringer'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Gebonde aan %mob%. Hou aan om hulle dood te maak'
+  - '&7om hierdie fles met hul siele te vul.'
+  name: '&cSielfles &7(%mob%)'
   type:
   - '&7&oSielkruik'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7''n Fles wat oorloop van die siele van %mob%.'
+  name: '&cGevulde Sielfles &7(%mob%)'
   type:
   - '&7&oSielkruik'
 SOUL_JAR:
+  description:
+  - '&7''n Sielbindende houer. Maak ''n mob dood terwyl'
+  - '&7jy dit dra om hul siel aan hierdie fles te bind.'
+  name: '&bSielfles &7(Leeg)'
   type:
   - '&7&oSielkruik'
