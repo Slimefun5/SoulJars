@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Een kapotte spawner afgestemd op %mob%.'
+  name: '&cKapotte spawner &7(%mob%)'
   type:
   - '&7&oKapotte Spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Gebonden aan %mob%. Blijf ze doden'
+  - '&7om deze pot met hun zielen te vullen.'
+  name: '&cZielenpot &7(%mob%)'
   type:
   - '&7&oZielenpot'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Een pot boordevol zielen van %mob%.'
+  name: '&cGevulde zielenpot &7(%mob%)'
   type:
   - '&7&oZielenpot'
 SOUL_JAR:
+  description:
+  - '&7Een zielbindend vat. Dood een mob terwijl'
+  - '&7je hem draagt om hun ziel aan deze pot te binden.'
+  name: '&bZielenpot &7(Leeg)'
   type:
   - '&7&oZielenpot'
