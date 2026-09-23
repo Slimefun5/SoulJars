@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Um gerador de monstros quebrado sintonizado em %mob%.'
+  name: '&cGerador de Monstros Quebrado &7(%mob%)'
   type:
   - '&7&oGerador de Monstros Quebrado'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Vinculado a %mob%. Continue matando-os'
+  - '&7para encher este jarro com as almas deles.'
+  name: '&cJarro de Almas &7(%mob%)'
   type:
   - '&7&oPote de almas'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Um jarro transbordando de almas de %mob%.'
+  name: '&cJarro de Almas Cheio &7(%mob%)'
   type:
   - '&7&oPote de almas'
 SOUL_JAR:
+  description:
+  - '&7Um recipiente que prende almas. Mate um mob'
+  - '&7carregando-o para prender a alma dele neste jarro.'
+  name: '&bJarro de Almas &7(Vazio)'
   type:
   - '&7&oPote de almas'
