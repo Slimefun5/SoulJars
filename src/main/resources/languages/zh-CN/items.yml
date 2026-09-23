@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7一个与 %mob% 相契合的破损刷怪笼。'
+  name: '&c破损的刷怪笼 &7(%mob%)'
   type:
   - '&7&o损坏的刷怪笼'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7已绑定 %mob%。持续击杀它们，'
+  - '&7用它们的灵魂填满这个罐子。'
+  name: '&c灵魂罐 &7(%mob%)'
   type:
   - '&7&o灵魂罐'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7一个装满了 %mob% 灵魂的罐子。'
+  name: '&c充盈的灵魂罐 &7(%mob%)'
   type:
   - '&7&o灵魂罐'
 SOUL_JAR:
+  description:
+  - '&7一个束缚灵魂的容器。携带它击杀'
+  - '&7生物，即可将其灵魂绑定到此罐中。'
+  name: '&b灵魂罐 &7(空)'
   type:
   - '&7&o灵魂罐'
