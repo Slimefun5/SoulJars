@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7%mob% için ayarlanmış bozuk bir doğurucu.'
+  name: '&cBozuk Doğurucu &7(%mob%)'
   type:
   - '&7&oKırık Çağırıcı'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7%mob% ile bağlı. Kavanozu ruhlarıyla'
+  - '&7doldurmak için onları öldürmeye devam et.'
+  name: '&cRuh Kavanozu &7(%mob%)'
   type:
   - '&7&oRuh Kavanozu'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7%mob% ruhlarıyla dolup taşan bir kavanoz.'
+  name: '&cDolu Ruh Kavanozu &7(%mob%)'
   type:
   - '&7&oRuh Kavanozu'
 SOUL_JAR:
+  description:
+  - '&7Ruh bağlayan bir kap. Yanında taşırken bir'
+  - '&7yaratık öldür ve ruhunu bu kavanoza bağla.'
+  name: '&bRuh Kavanozu &7(Boş)'
   type:
   - '&7&oRuh Kavanozu'
