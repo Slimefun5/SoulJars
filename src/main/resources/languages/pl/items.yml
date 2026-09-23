@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Zepsuty spawner dostrojony do %mob%.'
+  name: '&cZepsuty spawner &7(%mob%)'
   type:
   - '&7&oZepsuty Spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Związany z %mob%. Zabijaj je dalej,'
+  - '&7aby wypełnić ten słoik ich duszami.'
+  name: '&cSłoik dusz &7(%mob%)'
   type:
   - '&7&oSłój dusz'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Słoik wypełniony po brzegi duszami %mob%.'
+  name: '&cPełny słoik dusz &7(%mob%)'
   type:
   - '&7&oSłój dusz'
 SOUL_JAR:
+  description:
+  - '&7Naczynie wiążące dusze. Zabij moba,'
+  - '&7niosąc go, aby związać jego duszę z tym słoikiem.'
+  name: '&bSłoik dusz &7(Pusty)'
   type:
   - '&7&oSłój dusz'
