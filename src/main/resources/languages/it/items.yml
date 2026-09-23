@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Un generatore di mob rotto sintonizzato su %mob%.'
+  name: '&cGeneratore di Mob Rotto &7(%mob%)'
   type:
   - '&7&oGeneratore di Mob Rotto'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Legata a %mob%. Continua a ucciderli'
+  - '&7per riempire questa giara con le loro anime.'
+  name: '&cGiara delle Anime &7(%mob%)'
   type:
   - '&7&oBarattolo delle anime'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Una giara traboccante delle anime di %mob%.'
+  name: '&cGiara delle Anime Piena &7(%mob%)'
   type:
   - '&7&oBarattolo delle anime'
 SOUL_JAR:
+  description:
+  - '&7Un recipiente che lega le anime. Uccidi un mob'
+  - '&7mentre la porti per legarne l''anima a questa giara.'
+  name: '&bGiara delle Anime &7(Vuota)'
   type:
   - '&7&oBarattolo delle anime'
