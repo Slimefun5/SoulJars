@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Egy törött idéző, amely erre hangolva: %mob%.'
+  name: '&cTörött Idéző &7(%mob%)'
   type:
   - '&7&oTörött szörnyszülő'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Ehhez kötve: %mob%. Folytasd a leölésüket,'
+  - '&7hogy megtöltsd ezt a korsót a lelkeikkel.'
+  name: '&cLélekkorsó &7(%mob%)'
   type:
   - '&7&oLélekedény'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Egy korsó, tele %mob% lelkeivel.'
+  name: '&cMegtöltött Lélekkorsó &7(%mob%)'
   type:
   - '&7&oLélekedény'
 SOUL_JAR:
+  description:
+  - '&7Lélekkötő edény. Ölj meg egy mobot,'
+  - '&7miközben magadnál tartod, hogy a lelkét ehhez a korsóhoz kösd.'
+  name: '&bLélekkorsó &7(Üres)'
   type:
   - '&7&oLélekedény'
