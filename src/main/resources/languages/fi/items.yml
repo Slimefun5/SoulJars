@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Rikkinäinen kutuhäkki, joka on viritetty kohteeseen %mob%.'
+  name: '&cRikkinäinen kutuhäkki &7(%mob%)'
   type:
   - '&7&oRikkinäinen Synnyttäjä'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Sidottu kohteeseen %mob%. Jatka niiden tappamista'
+  - '&7täyttääksesi tämän purkin niiden sieluilla.'
+  name: '&cSielupurkki &7(%mob%)'
   type:
   - '&7&oSielupurkki'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Purkki täynnä kohteen %mob% sieluja.'
+  name: '&cTäytetty sielupurkki &7(%mob%)'
   type:
   - '&7&oSielupurkki'
 SOUL_JAR:
+  description:
+  - '&7Sielua sitova astia. Tapa mobi'
+  - '&7kantaessasi sitä sitoaksesi sen sielun tähän purkkiin.'
+  name: '&bSielupurkki &7(Tyhjä)'
   type:
   - '&7&oSielupurkki'
