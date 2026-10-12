@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Một lồng sinh sản hỏng đã điều hợp với %mob%.'
+  name: '&cLồng sinh sản Hỏng &7(%mob%)'
   type:
   - '&7&oLồng Sinh Vật Bị Vỡ'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Đã gắn với %mob%. Hãy tiếp tục tiêu diệt chúng'
+  - '&7để lấp đầy chiếc lọ này bằng linh hồn của chúng.'
+  name: '&cLọ Linh hồn &7(%mob%)'
   type:
   - '&7&oBình Linh Hồn'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Một chiếc lọ tràn đầy linh hồn của %mob%.'
+  name: '&cLọ Linh hồn Đầy &7(%mob%)'
   type:
   - '&7&oBình Linh Hồn'
 SOUL_JAR:
+  description:
+  - '&7Một chiếc bình ràng buộc linh hồn. Hạ một sinh vật khi'
+  - '&7đang mang nó để ràng linh hồn của chúng vào lọ này.'
+  name: '&bLọ Linh hồn &7(Rỗng)'
   type:
   - '&7&oBình Linh Hồn'
