@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7%mob%에 맞춰진 고장난 스포너입니다.'
+  name: '&c고장난 스포너 &7(%mob%)'
   type:
   - '&7&o파손된 스포너'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7%mob%에 결속되었습니다. 계속 사냥하여'
+  - '&7이 항아리를 그 영혼으로 채우세요.'
+  name: '&c영혼 항아리 &7(%mob%)'
   type:
   - '&7&o영혼 항아리'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7%mob% 영혼이 가득한 항아리입니다.'
+  name: '&c가득 찬 영혼 항아리 &7(%mob%)'
   type:
   - '&7&o영혼 항아리'
 SOUL_JAR:
+  description:
+  - '&7영혼을 결속하는 그릇입니다. 이것을 지닌 채'
+  - '&7몹을 죽이면 그 영혼이 이 항아리에 담깁니다.'
+  name: '&b영혼 항아리 &7(비어 있음)'
   type:
   - '&7&o영혼 항아리'
