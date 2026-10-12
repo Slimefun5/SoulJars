@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Un generator de mobi defect acordat pe %mob%.'
+  name: '&cGenerator de Mobi Defect &7(%mob%)'
   type:
   - '&7&oGenerator de Mobi Spart'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Legat de %mob%. Continuă să îi omori'
+  - '&7pentru a umple acest borcan cu sufletele lor.'
+  name: '&cBorcan de Suflete &7(%mob%)'
   type:
   - '&7&oBorcan de suflete'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Un borcan plin cu sufletele de %mob%.'
+  name: '&cBorcan de Suflete Plin &7(%mob%)'
   type:
   - '&7&oBorcan de suflete'
 SOUL_JAR:
+  description:
+  - '&7Un vas care leagă suflete. Omoară un mob'
+  - '&7purtându-l pentru a-i lega sufletul la acest borcan.'
+  name: '&bBorcan de Suflete &7(Gol)'
   type:
   - '&7&oBorcan de suflete'
