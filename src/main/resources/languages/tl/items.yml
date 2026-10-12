@@ -1,12 +1,26 @@
 '%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7Sirang tagapagsibol na nakatutok sa %mob%.'
+  name: '&cSirang Tagapagsibol &7(%mob%)'
   type:
   - '&7&oSirang Spawner'
 '%MOB%_SOUL_JAR':
+  description:
+  - '&7Nakatali sa %mob%. Patuloy silang patayin'
+  - '&7para mapuno ang garapong ito ng kanilang mga kaluluwa.'
+  name: '&cGarapon ng Kaluluwa &7(%mob%)'
   type:
   - '&7&oGarapon ng Kaluluwa'
 FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7Garapong umaapaw sa mga kaluluwa ng %mob%.'
+  name: '&cPunong Garapon ng Kaluluwa &7(%mob%)'
   type:
   - '&7&oGarapon ng Kaluluwa'
 SOUL_JAR:
+  description:
+  - '&7Sisidlang nagtatali ng kaluluwa. Pumatay ng nilalang habang'
+  - '&7taglay ito para itali ang kaluluwa nito sa garapong ito.'
+  name: '&bGarapon ng Kaluluwa &7(Walang laman)'
   type:
   - '&7&oGarapon ng Kaluluwa'
