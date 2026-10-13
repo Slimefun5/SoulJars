@@ -1,0 +1,26 @@
+'%MOB%_BROKEN_SPAWNER':
+  description:
+  - '&7%mob%に同調した壊れたスポナー。'
+  name: '&c壊れたスポナー &7(%mob%)'
+  type:
+  - '&7&o壊れたスポナー'
+'%MOB%_SOUL_JAR':
+  description:
+  - '&7%mob%に結びついている。'
+  - '&7倒し続けて魂を満たそう。'
+  name: '&cソウルジャー &7(%mob%)'
+  type:
+  - '&7&oソウルジャー'
+FILLED_%MOB%_SOUL_JAR:
+  description:
+  - '&7%mob%の魂で満ちたジャー。'
+  name: '&c満杯のソウルジャー &7(%mob%)'
+  type:
+  - '&7&oソウルジャー'
+SOUL_JAR:
+  description:
+  - '&7魂を封じる器。持ち歩いた状態で'
+  - '&7モブを倒すとこのジャーに魂が宿る。'
+  name: '&bソウルジャー &7(空)'
+  type:
+  - '&7&oソウルジャー'
