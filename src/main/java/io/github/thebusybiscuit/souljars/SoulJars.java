@@ -81,6 +81,7 @@ public class SoulJars extends JavaPlugin implements Listener, SlimefunAddon {
         // Contribute this addon's item translations (+ families) so its display resolves per player language.
         Slimefun.getItemTranslationService().registerTranslations(this);
         Slimefun.getLocalization().registerItemGroupTranslations(this);
+        Slimefun.getLocalization().registerRecipeTypeTranslations(this);
 
         cfg.save();
     }
