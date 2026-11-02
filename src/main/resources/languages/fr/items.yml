@@ -1,5 +1,5 @@
 SOUL_JAR:
-  name: '&bBocal d''âme &7(Vide)'
+  name: 'Bocal d''âme (Vide)'
   type:
   - '&7&oBocal d''âme'
   description:
@@ -7,7 +7,7 @@ SOUL_JAR:
   - '&7le portant pour lier son âme à ce bocal.'
 
 '%MOB%_SOUL_JAR':
-  name: '&cBocal d''âme &7(%mob%)'
+  name: 'Bocal d''âme (%mob%)'
   type:
   - '&7&oBocal d''âme'
   description:
@@ -15,14 +15,14 @@ SOUL_JAR:
   - '&7pour remplir ce bocal de leurs âmes.'
 
 'FILLED_%MOB%_SOUL_JAR':
-  name: '&cBocal d''âme rempli &7(%mob%)'
+  name: 'Bocal d''âme rempli (%mob%)'
   type:
   - '&7&oBocal d''âme'
   description:
   - '&7Un bocal débordant des âmes de %mob%.'
 
 '%MOB%_BROKEN_SPAWNER':
-  name: '&cGénérateur cassé &7(%mob%)'
+  name: 'Générateur cassé (%mob%)'
   type:
   - '&7&oGénérateur cassé'
   description:
